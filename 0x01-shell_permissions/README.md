@@ -4,3 +4,4 @@
 - 2-groups : *Show all the groups the current user is part of*
 - 3-new_owner : *Change owner of a file* 
 - 4-empty : *Create an empty file* 
+- 5-execute : *Add execute permission to owner*
