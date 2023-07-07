@@ -6,4 +6,5 @@
 - 4-empty : *Create an empty file* 
 - 5-execute : *Add execute permission to owner* 
 - 6-multiple_permissions : *give execute permission to user and group and read permission to others* 
-- 7-everybody : *Execution permissions to everyone*
+- 7-everybody : *Execution permissions to everyone* 
+- 8-James_Bond : *All permissions to only other*
