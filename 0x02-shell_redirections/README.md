@@ -13,5 +13,6 @@
 - 11-directories : *Count directories and all subdirectories* 
 - 12-newest_files : *Displays the 10 newest files in a directory* 
 - 13-unique : *takes a list of words as input and prints only words that appear exactly once* 
+- 14-findthatword : *Display lines containing the pattern “root” from the file /etc/passwd* 
 - 
  
