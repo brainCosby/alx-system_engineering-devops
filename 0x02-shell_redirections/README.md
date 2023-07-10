@@ -9,4 +9,5 @@
 - 7-file : *Creates the file with text Best school in it* 
 - 8-cwd_state : *Gives the output of a commad to a file* 
 - 9-duplicate_last_line : *Dupicate the last line of a file* 
+- 10-no_more_js : *Deletes all files with extension .js* 
 -  
