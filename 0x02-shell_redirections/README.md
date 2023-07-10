@@ -6,5 +6,6 @@
 - 4-lastlines : *Display the last 10 lines of a file* 
 - 5-firstlines : *Display the first 10 lines of a file* 
 - 6-third_line : *Display the 3rd line of a file* 
-- 7-file : *Creates the file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with text Best school in it
-- *
+- 7-file : *Creates the file with text Best school in it* 
+- 8-cwd_state : *Gives the output of a commad to a file* 
+- 
