@@ -8,4 +8,5 @@
 - 6-third_line : *Display the 3rd line of a file* 
 - 7-file : *Creates the file with text Best school in it* 
 - 8-cwd_state : *Gives the output of a commad to a file* 
-- 
+- 9-duplicate_last_line : *Dupicate the last line of a file* 
+-  
